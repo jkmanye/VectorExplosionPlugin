@@ -1,0 +1,6 @@
+name: VectorExplosionPlugin
+main: com.schoolvote.MCPlugin.VectorExplosionPlugin.Main
+version: 1.0-Alpha
+commands:
+  vex:
+    description: Just a command.
